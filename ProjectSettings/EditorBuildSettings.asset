@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 209e234e9dce97a438e80ecc438733d0
+  - enabled: 1
+    path: Assets/Scenes/1AmberIntro.unity
+    guid: 2a8942df22315784eb2d759618ba90ed
+  - enabled: 1
+    path: Assets/Scenes/2AmberDialog.unity
+    guid: 2ae9a946e1380534589e5b60a0b16733
+  - enabled: 1
+    path: Assets/Scenes/3AmberBattle1 1.unity
+    guid: 011957f29b5aa5848b8b4ae98c6ed16a
+  - enabled: 1
+    path: Assets/Scenes/4CarlosIntro.unity
+    guid: 4d4b6a7d7e953d44ab88f30efab0970d
+  - enabled: 1
+    path: Assets/Scenes/5CarlosDialog.unity
+    guid: cf8bbc86eb1843e43ba41816079d332e
+  - enabled: 1
+    path: Assets/Scenes/6CarlosBattle1 1.unity
+    guid: 2d2261974b7aa6a41890e7e7a4d916f4
+  - enabled: 1
+    path: Assets/Scenes/7TheoIntro.unity
+    guid: 61f614c3b717b5b4ba5d22febb23e80d
+  - enabled: 1
+    path: Assets/Scenes/8TheoDialog.unity
+    guid: 2fc18c17404341742978e8c50d0af2fc
+  - enabled: 1
+    path: Assets/Scenes/9TheoBattle1 1.unity
+    guid: 2af1c93df0bc6bc47ae317903ac0e2f0
+  - enabled: 1
+    path: Assets/Scenes/10AmberDialog.unity
+    guid: eac1ba39392ab284793f476156d1e488
+  - enabled: 1
+    path: Assets/Scenes/11AmberBattle3 1.unity
+    guid: aa77f6e4127736042949da642028b4df
+  - enabled: 1
+    path: Assets/Scenes/12TheoAndCarlosDialog.unity
+    guid: 734cbb3f3b3598e4ead38292b353ea29
+  - enabled: 1
+    path: Assets/Scenes/13CarlosBattle2 1.unity
+    guid: 195d3fc42e2030e479aecd83bd852a7b
+  - enabled: 1
+    path: Assets/Scenes/14TheoBattle3 1.unity
+    guid: 320b4473e42e81949914c7e920ae33b5
+  - enabled: 1
+    path: Assets/Scenes/15AmberCarlosDialog.unity
+    guid: ad85a7dce57c6af4bb55c59f10dfb75d
+  - enabled: 1
+    path: Assets/Scenes/16AmberBattle2 1.unity
+    guid: dda7fab708966704ab173227000dfcfe
+  - enabled: 1
+    path: Assets/Scenes/17CarlosBattle3 1.unity
+    guid: d40f9da6b251cc340b3457c0a7fa6c59
+  - enabled: 1
+    path: Assets/Scenes/18TheosDialog.unity
+    guid: 87d33ad2643008d4ca3578e60fd2eca6
+  - enabled: 1
+    path: Assets/Scenes/19TheoBattle2 1.unity
+    guid: ea5c8e14359abdb44b957356e4cfb2e5
+  - enabled: 1
+    path: Assets/Scenes/20FinalBossDialog.unity
+    guid: dde90bd8e498dce4daf0cfbf99e66e62
+  - enabled: 1
+    path: Assets/Scenes/21AmberBattleFinal.unity
+    guid: efaa03f8386442544a8d595b5a935ded
+  - enabled: 1
+    path: Assets/Scenes/22CarlosBattleFinal.unity
+    guid: 596ef00025f8403458cc1aa5753f946b
+  - enabled: 1
+    path: Assets/Scenes/23TheoBattleFinal.unity
+    guid: 9b042db8b01ad3a49be64be36253290f
+  - enabled: 1
+    path: Assets/Scenes/24Aftermath.unity
+    guid: c2575dfd83615244db4bf055060dd195
+  m_configObjects: {}
